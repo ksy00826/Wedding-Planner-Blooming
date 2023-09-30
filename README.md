@@ -229,6 +229,23 @@
 
 ![architecture.png](README_assets/1cdf902b533381a38dedc536f451ac3ef56dd738.png)
 
+## 협업 : Notion
+|노션을 활용한 협업 진행|멤버 정보|
+|---|---|
+|![image](https://github.com/ksy00826/Wedding-Planner-Blooming/assets/76732805/b37c5435-723b-4261-9d46-3818f7fc712a)|![image](https://github.com/ksy00826/Wedding-Planner-Blooming/assets/76732805/37f43907-9246-4d57-a569-1a98d7cb56e2)|
+|프로젝트에서 사용하는 기술 스택을 학습하고 노선을 활용하여 정보를 공유하였습니다.||
+
+|기술 스택 학습 및 공유|주간 회고록 작성|
+|---|---|
+|![image](https://github.com/ksy00826/Wedding-Planner-Blooming/assets/76732805/5c636d12-be5e-4c4b-8b98-a61cdb923432)|![image](https://github.com/ksy00826/Wedding-Planner-Blooming/assets/76732805/26b9b2fa-45b1-4eb7-9086-47f12cb07163)|
+|프로젝트에서 사용하는 기술 스택을 학습하고 노선을 활용하여 정보를 공유하였습니다.|매 주마다 개인별, 팀별 회고록을 작성하며 주차별로 발전해나가는 기록을 남길 수 있었습니다.|
+
+|JIRA를 활용한 일정관리|Git convention & 일관된 커밋 메시지|
+|---|---|
+|![image](https://github.com/ksy00826/Wedding-Planner-Blooming/assets/76732805/fe0cac7c-e772-4f82-835a-5043f709892d)|![image](https://github.com/ksy00826/Wedding-Planner-Blooming/assets/76732805/f4ee52db-f393-44be-8369-712bd39501c6)|
+|JIRA를 활용하여 매주 목표를 정하고 스프린트를 작성하여 프로젝트 전체 일정을 관리하였습니다.|Git 브랜치 전략과 commit convention을 정하고, 해당 컨벤션을 바탕으로 일관된 커밋 메시지를 작성했습니다.|
+
+
 # 팀원 소개
 
 | **[정훈석](https://github.com/AndreaStudy)**                                                          | **[정소정](https://github.com/sojeong025)**                                                           | **[구희영](https://github.com/hi9900)**                                                               | **[강동윤](https://github.com/yty455)**                                                               | **[김성인](https://github.com/ksi2564)**                                                              | **[김승연](https://github.com/ksy00826)**                                                             |
