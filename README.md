@@ -1,6 +1,4 @@
-<img src="README_assets/bb0ec503e32c81cec5154bac8093e364ed6a2785.png" title="" alt="ring.png" data-align="center">
-
-<img title="" src="README_assets/34cf01b03da6bca188cbf69d95b1e9a6547ab20f.png" alt="text.png" width="334" data-align="center">
+![image](https://github.com/ksy00826/Wedding-Planner-Blooming/assets/76732805/aec7c97b-2878-4c9d-b7fc-21b8e2d359bb)
 
 # BLOOMING
 
